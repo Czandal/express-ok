@@ -1,0 +1,22 @@
+{
+  "name": "express-ok",
+  "version": "1.0.0",
+  "description": "Primitive express server meant to test different deployment tools, returns OK on any request",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Czandal/express-ok.git"
+  },
+  "author": "Czandal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Czandal/express-ok/issues"
+  },
+  "homepage": "https://github.com/Czandal/express-ok#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
